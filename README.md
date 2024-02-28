@@ -200,7 +200,7 @@ useRef: Ref nesneleri genellikle, bir öğenin iç durumunu doğrudan değiştir
 ###### React'in useCallback Hook'unu React'in useMemo Hook'u ile karıştırmayalım. useCallback, işlevleri hafızaya almak için kullanılırken, useMemo, değerleri hafızaya almak için kullanılır.
 
 ## API 
-[dummyJSON API]()
+[dummyJSON API]("https://dummyjson.com/products)
 
 ###### React'in useCallback Hook'unu React'in memo API'si ile karıştırmayalım. useCallback, işlevleri not almak için kullanılırken, React memo, yeniden oluşturmaları önlemek için React bileşenlerini sarmak için kullanılır.
 
